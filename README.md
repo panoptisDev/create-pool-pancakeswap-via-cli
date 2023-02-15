@@ -5,3 +5,15 @@
 * change amount of token to add as liquidity to controll price of token
 
 
+
+
+
+
+
+
+
+
+
+
+---
+this was my 700th reository added to github
